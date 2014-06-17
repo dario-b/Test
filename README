@@ -20,3 +20,5 @@ io.sockets.on('connection', function (socket) {
 
 
 dodao sam ovo
+
+i ovo sam dodao
